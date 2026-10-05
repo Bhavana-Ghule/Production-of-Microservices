@@ -354,3 +354,7 @@ Browser -> Route 53 -> Load Balancer -> Ingress -> Service -> Ready Pod
 Keep these paths separate: Jenkins and Argo CD deliver/reconcile the
 application; DNS, load balancing, Ingress, and Services route user
 traffic to it.
+
+
+#### We can serarch our domain name with help of there namepsace and domain id from given website:
+https://www.whatsmydns.net/#NS/vibacraft.shop
