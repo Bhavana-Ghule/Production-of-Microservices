@@ -1,9 +1,5 @@
 # Production DevOps Workflow — Jenkins, GitOps, Argo CD, Kubernetes, AWS Load Balancer Controller, RBAC
 
-> **Purpose:** Clean GitHub-ready version of the handwritten notes in the supplied 12-page PDF. The original topics and examples are retained where legible. Important explanations and corrections are highlighted for easier learning.
->
-> **Reading note:** Some handwriting and a few command names in the photos are not fully legible. Those parts are reconstructed only where the surrounding context makes the meaning clear. Added explanations are labelled **Correction / clarification** so they are not confused with a literal transcription.
-
 ---
 
 ## 1. Big picture: how a request reaches an application
